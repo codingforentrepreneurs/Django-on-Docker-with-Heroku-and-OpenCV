@@ -6,4 +6,4 @@
 This repo is for the reference code from [this post](https://www.codingforentrepreneurs.com/blog/deploy-django-on-docker-to-heroku-opencv).
 
 
-Watch the tutorial on _coming soon_.
+Watch the tutorial on [youtube](https://youtu.be/1pZbuvbvYY8).
