@@ -1,9 +1,9 @@
-[![Django on Docker Image](https://static.codingforentrepreneurs.com/media/cfe-blog/django-on-docker-a-simple-introduction/Django_On_Docker-_Simple_Tutorial__Introduction.jpg)]((https://www.codingforentrepreneurs.com/blog/django-on-docker-a-simple-introduction))
+[![Deploying Django on Docker to Heroku with OpenCV Image](https://static.codingforentrepreneurs.com/media/cfe-blog/deploy-django-on-docker-to-heroku-opencv/Django_On_Docker_to_Heroku_with_OpenCV.jpg)]](https://www.codingforentrepreneurs.com/blog/deploy-django-on-docker-to-heroku-opencv)
 
 
-# Django on Docker
+# Deploying Django on Docker to Heroku with OpenCV
 
-This repo is for the reference code from [this post](https://www.codingforentrepreneurs.com/blog/django-on-docker-a-simple-introduction).
+This repo is for the reference code from [this post](https://www.codingforentrepreneurs.com/blog/deploy-django-on-docker-to-heroku-opencv).
 
 
-Watch the tutorial on [youtube](https://youtu.be/KaSJMDo-aPs).
+Watch the tutorial on _coming soon_.
